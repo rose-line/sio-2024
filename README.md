@@ -1,2 +1,5 @@
-# sio2-slam-2024
-Dépôt SIO2 SLAM 2024
+# SIO2 SLAM 2024
+
+## Atelier professionnel
+
+- [AP3 (Semestre 3) : All4Sport](ap3/README.md)
