@@ -1,9 +1,9 @@
-# SIO2 SLAM 2024
+## SIO2 SLAM 2024
 
-## Cybersécurité
+### Cybersécurité
 
 - Tests unitaires : [Gestion de parking](cs/parking.md)
 
-## Atelier professionnel
+### Atelier professionnel
 
 - AP3 (Semestre 3) : [All4Sport](ap3/README.md)
