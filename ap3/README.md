@@ -1,7 +1,7 @@
 # AP3 - All4Sport (Semestre 3)
 
-Cet Atelier Professionnel va comporter deux lots (pour deux projets sous-jacents) :
+Cet Atelier Professionnel va comporter deux lots (pour deux projets sous-jacents).
 
-- [All4Sport - Contexte](contexte.pdf)
-- [All4Sport - Lot A : vente](lotA-vente.pdf)
-- [All4Sport - Lot B : logistique](lotB-logistique.pdf)
+- [Contexte](contexte.pdf)
+- [Lot A : vente](lotA-vente.pdf)
+- [Lot B : logistique](lotB-logistique.pdf)
