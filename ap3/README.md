@@ -2,6 +2,6 @@
 
 Cet Atelier Professionnel va comporter deux lots (pour deux projets sous-jacents).
 
-- [Contexte](contexte.pdf)
+- [Contexte](Contexte.pdf)
 - [Lot A : vente](lotA-vente.pdf)
 - [Lot B : logistique](lotB-logistique.pdf)
