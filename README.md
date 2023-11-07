@@ -3,6 +3,7 @@
 ### Cybersécurité
 
 - Tests unitaires : [Gestion de parking](cs/parking.md)
+- Vulnérabilités web : [Mise en place du labo](cs/labo.md)
 
 ### Atelier professionnel
 
