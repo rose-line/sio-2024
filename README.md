@@ -4,6 +4,7 @@
 
 - Tests unitaires : [Gestion de parking](cs/parking.md)
 - Vulnérabilités web : [Mise en place du labo](cs/labo.md)
+- Injection de commandes : [TP](cs/injection_cmd.md)
 
 ### Atelier professionnel
 
