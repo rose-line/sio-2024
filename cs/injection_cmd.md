@@ -49,7 +49,7 @@ Par la suite, si vous souhaitez juste tester des requêtes et voir les réponses
 
 ## Pentest 1 - Injection de commandes basée sur le résultat (_in-band_)
 
-[Lien vers le labo]([https://portswigger.net/academy/labs/launch/28bda028c1ba840a8f4fccaaad3739fdc8d8e2d195f348c0db992cbcd6971cbf?referrer=%2fweb-security%2fos-command-injection%2flab-blind-time-delays](https://portswigger.net/academy/labs/launch/2b08de150e353dc1c0057519f466a55a0ca4a7901b2469d56ef7d2a80eddeaa6?referrer=%2fweb-security%2fos-command-injection%2flab-simple))
+[Lien vers le labo](https://0a9f0055030272848322c9db00f200f9.web-security-academy.net)
 
 Ce laboratoire contient une vulnérabilité d'injection de commande shell dans la procédure de vérification de stock du produit.
 
