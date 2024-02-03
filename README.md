@@ -1,9 +1,19 @@
-## SIO2 SLAM 2024
+# SIO2 2024
 
-### Cybersécurité
+## Bloc 1
 
-- Tests unitaires : [Gestion de parking](cs/parking.md)
+[Slides Docker](b1/docker.pdf)
 
-### Atelier professionnel
+## Cybersécurité
+
+### Tests unitaires
+
+[Gestion de parking](cs/parking.md)
+
+### Pentesting
+
+- [Injection de commandes](cs/injection-commandes.md)
+
+## Atelier Professionnel
 
 - AP3 (Semestre 3) : [All4Sport](ap3/README.md)
