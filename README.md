@@ -12,7 +12,7 @@
 
 ### Pentesting
 
-- [Injection de commandes](cs/injection-commandes.md)
+- [TP Injection de commandes](cs/tp_injection_commandes.md)
 
 ## Atelier Professionnel
 
