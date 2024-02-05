@@ -17,6 +17,7 @@
 ### Pentesting
 
 - Vulnérabilités web : [Mise en place du labo](cs/labo.md)
+- [Cours Injection de commandes](cs/injection_de_commandes.pdf)
 - [TP Injection de commandes](cs/tp_injection_commandes.md)
 
 ## Atelier Professionnel SLAM
