@@ -8,6 +8,8 @@
 
 - Introduction aux concepts d'héritage : [TP Bestioles](https://github.com/rose-line/sio2024-tp-bestioles)
 
+- Corrections / évolutions dans un contexte POO / classes abstraites : [TP Lecteur de formes](https://github.com/rose-line/sio2024-tp-lecteur-de-formes)
+
 ## Bloc 3 SLAM
 
 ### Tests unitaires
